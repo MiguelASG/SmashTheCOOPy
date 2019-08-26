@@ -1,2 +1,2 @@
 # SmashTheCOOPy
-*Juego Multijugador online
+Juego Multijugador online
